@@ -306,29 +306,7 @@ Uniswap's [v3-periphery audit by ABDK Consulting](https://github.com/Uniswap/v3-
 
 ## 📸 The Tech Stack Playbook YouTube Channel
 Check out my **3-Hour Intro to Solidity and Web3 Development Course** on my YouTube channel, the Tech Stack Playbook, here:
-<div class="embed-container">
-    <iframe width="640" height="390" 
-    src="https://www.youtube.com/embed/il9s98lPGqY" 
-    frameborder="0" allowfullscreen></iframe>
-</div>
-<style>
-.embed-container {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-}
-.embed-container iframe,
-.embed-container object,
-.embed-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
+<a href="https://youtu.be/il9s98lPGqY"><img src="https://img.shields.io/badge/-YouTube:%20Intro%20To%20Solidity%20And%20Web3%20Course-red?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <br></br>
 
 ## 📚 My Kajabi Course Portal
