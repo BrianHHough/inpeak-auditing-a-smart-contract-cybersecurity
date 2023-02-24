@@ -14,7 +14,10 @@ Certik's annual "State of DeFi Security" research report found that $1.3B was lo
 ﻿In this talk, Brian Hough is going to explain how several of these vulnerabilities have happened so far and share strategies and techniques for securing smart contracts that you can look out for. IMPORTANT: This is not a replacement for an audit or having your smart contracts reviewed by a professional — this is only for educational purposes and should not be considered as advice or advisement.
 <br></br>
 # 🪧 Slides:
-https://user-images.githubusercontent.com/56947075/206660097-c63e2cff-ae7d-42be-ac9c-2bff697a6eb2.mp4
+
+https://user-images.githubusercontent.com/56947075/221074334-e16b7d33-4f42-4b2f-9241-4e1b0c583ab2.mp4
+
+
 <br></br>
 
 ## **⛓ Smart Contract Examples:**
