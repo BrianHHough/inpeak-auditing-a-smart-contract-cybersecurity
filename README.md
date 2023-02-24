@@ -17,6 +17,7 @@ Certik's annual "State of DeFi Security" research report found that $1.3B was lo
 
 https://user-images.githubusercontent.com/56947075/221074334-e16b7d33-4f42-4b2f-9241-4e1b0c583ab2.mp4
 
+[![Vimeo Video](https://img.shields.io/badge/<SUBJECT>-VIMEO.com-<COLOR>.svg?color=15307B&label=View%20A%20Hi-Res%20Version%20On%20Vimeo%20Here&style=for-the-badge)](https://vimeo.com/801738054)
 
 <br></br>
 
